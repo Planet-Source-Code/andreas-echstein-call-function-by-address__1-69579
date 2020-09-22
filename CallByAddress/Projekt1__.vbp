@@ -1,0 +1,48 @@
+Type=Exe
+Form=Form1__.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#E:\WINDOWS\System32\stdole2.tlb#OLE Automation
+Module=Mod_Function_Ptr; Mod_Function_Ptr.bas
+IconForm="Form1"
+Startup="Form1"
+ExeName32="Projekt1_.exe"
+Path32="E:\Documents and Settings\Felix\Desktop"
+Command32=""
+Name="Projekt1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="tnhrtn"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[vbAdvance]
+IsConsole=0
+HasStubFile=0
+GenerateMap=0
+TSAware=0
+XPManifest=0
+ResBuildName=Projekt1.dll
+ReplaceIcon=0
+SendCommandArgs=0
+SymbDbgPref=0
+RevisionVersion=0
